@@ -1,0 +1,9 @@
+[
+  { "id": "P1", "name": "High-End Laptop", "category": "Electronics", "costPrice": 800, "sellingPrice": 1200 },
+  { "id": "P2", "name": "Wireless Mouse", "category": "Electronics", "costPrice": 10, "sellingPrice": 25 },
+  { "id": "P3", "name": "Mechanical Keyboard", "category": "Electronics", "costPrice": 30, "sellingPrice": 60 },
+  { "id": "P4", "name": "Ergonomic Chair", "category": "Furniture", "costPrice": 100, "sellingPrice": 200 },
+  { "id": "P5", "name": "Standing Desk", "category": "Furniture", "costPrice": 150, "sellingPrice": 300 },
+  { "id": "P6", "name": "USB-C Hub", "category": "Electronics", "costPrice": 15, "sellingPrice": 40 },
+  { "id": "P7", "name": "Monitor Arm", "category": "Furniture", "costPrice": 40, "sellingPrice": 80 }
+]
